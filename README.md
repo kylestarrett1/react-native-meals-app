@@ -18,7 +18,7 @@ Make sure you have the following software installed:
 
 #### Main Screen
  - Select a food category from a list of available options.
- - 
+   
 #### Recipe Screens
  - View a list of recipes within the selected category.
  - Each recipe provides information on cooking time, cost, and step-by-step directions.
